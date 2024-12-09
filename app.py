@@ -1,4 +1,4 @@
-# Define the Person class
+# Define the Person class.
 class Person:
     def __init__(self, name, age, gender):
         # Initialize the attributes
